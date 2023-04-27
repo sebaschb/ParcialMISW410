@@ -18,7 +18,7 @@ export class PlantListComponent implements OnInit {
     });
   }
 
-  getNumberTipe(tipo: string): number {
+  getNumberType(tipo: string): number {
     const resultado: Array<Plant> = this.plants.filter(
       (plant) => plant.tipo === tipo
     );
