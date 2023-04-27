@@ -1,0 +1,12 @@
+#info {
+  text-shadow: 1px 2px 3px #858282;
+  color: black;
+}
+#titulo {
+  font-weight: bold;
+  font-family: 'Times New Roman';
+  text-shadow: 1px 2px 3px #858282;
+}
+hr {
+  box-shadow: 1px 2px 3px #858282;
+}
